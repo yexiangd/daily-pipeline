@@ -1,0 +1,308 @@
+{
+  "generated_at": "2026-09-16T16:22:26.667181-07:00",
+  "run_date": "2026-09-16",
+  "sources": [
+    "hn",
+    "funding"
+  ],
+  "count": 18,
+  "items": [
+    {
+      "title": "Location: London, UK Remote: Yes — UK remote or London hybrid/onsite Willing to relocate: No Right to work: UK — no sponsorship required Ava",
+      "url": "https://news.ycombinator.com/item?id=49686668",
+      "source": "hn",
+      "company_or_poster": "kadsamiksha3471",
+      "published_at": "2026-09-13T17:56:12+00:00",
+      "snippet": "Location: London, UK Remote: Yes — UK remote or London hybrid/onsite Willing to relocate: No Right to work: UK — no sponsorship required Availability: Immediately Software Engineer with 4 years of experience, primarily focused on backend and platform engineering using Node.js, TypeScript, AWS, PostgreSQL, Redis, and event-driven systems. Most recently worked as a Software Engineer II contractor at Deliveroo, improving production CRM data pipelines and lifecycle orchestration using AWS Lambda, SQS, PostgreSQL, Snowflake, Go, and Datadog. Earlier experience includes leading a migration of approx",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-001",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Catalyst·Wayfare AI | Agent Builder | Remote (US ET Overlap) | Full-time / Part-time / Contract | https://catalystwayfare.ai/careers AI tran",
+      "url": "https://news.ycombinator.com/item?id=49650855",
+      "source": "hn",
+      "company_or_poster": "catalystwayfare",
+      "published_at": "2026-09-10T22:15:25+00:00",
+      "snippet": "Catalyst·Wayfare AI | Agent Builder | Remote (US ET Overlap) | Full-time / Part-time / Contract | https://catalystwayfare.ai/careers AI transformation firm shipping production AI systems for mid-market enterprises in regulated and technical domains — finance, energy, industrials, healthcare. We do not stop at PowerPoint AI strategy. We ship working systems alongside our clients' engineering teams. Small teams, deep expertise, real autonomy on real work. Hiring: AI Engineer, Agent Builder — Hands-on builder delivering key projects within multi-agent orchestrations — initially for one of the cou",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-002",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "EggAI | Tech leads (Platform and Software) and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small bou",
+      "url": "https://news.ycombinator.com/item?id=49525468",
+      "source": "hn",
+      "company_or_poster": "nherment",
+      "published_at": "2026-09-01T17:59:22+00:00",
+      "snippet": "EggAI | Tech leads (Platform and Software) and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consultancy and are quite experienced. A lot of us have extensive consultant experience. You will join a small, highly skilled remote team of engineers and transformation practitioners working at the forefront of enterprise AI. We use AI for both development and in our solutions. We are looking for engineers that are critical thinkers, understand the limitations of AI but also where it can have a positive impact. Apply at: https://grnh.se/wr97lgu2teu",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-003",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Cider Consulting | NY, USA | REMOTE (US-based only) We’ve built custom software for US clients since 2018, and we’re now building a differen",
+      "url": "https://news.ycombinator.com/item?id=49656171",
+      "source": "hn",
+      "company_or_poster": "MariiaUlianova",
+      "published_at": "2026-09-11T10:39:33+00:00",
+      "snippet": "Cider Consulting | NY, USA | REMOTE (US-based only) We’ve built custom software for US clients since 2018, and we’re now building a different delivery model: one senior engineer-consultant owns the whole engagement end-to-end — from figuring out the problem with the client and shaping the AI solution to building and getting it into production. Hiring: Forward Deployed Engineer. Must-have experience: - pre-sale/discovery experience — you personally ran early client conversations before any scope/contract existed, without a PM/PO/BA layer; - direct hot-lead communication; - solo consultant role ",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-004",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Solution Street | Northern Virginia / Washington DC Metro Area - HYBRID & ONSITE roles available - USA only. Candidates MUST be based in the",
+      "url": "https://news.ycombinator.com/item?id=49525549",
+      "source": "hn",
+      "company_or_poster": "SolutionStreet",
+      "published_at": "2026-09-01T18:05:32+00:00",
+      "snippet": "Solution Street | Northern Virginia / Washington DC Metro Area - HYBRID & ONSITE roles available - USA only. Candidates MUST be based in the United States with US work authorization. We are a software consulting company based in Northern Virginia. Our Website: https://www.solutionstreet.com/ Interested? Apply on our Careers Page (Make sure to mention you found our post on Hacker News): https://solutionstreet.com/join.php Current Opportunities: - Java Engineers: (ONSITE Chantilly, VA) Seeking Mid-to-Senior/Lead levels of Full Stack Java Engineers with experience in Java, Spring, Hibernate, Kube",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-005",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Obi9 | Full-Stack Engineer | REMOTE (US time zones) | Contract or Full-time | https://obi9.ai/jobs/full-stack-engineer A hedge fund analyst ",
+      "url": "https://news.ycombinator.com/item?id=49661611",
+      "source": "hn",
+      "company_or_poster": "473999",
+      "published_at": "2026-09-11T16:57:55+00:00",
+      "snippet": "Obi9 | Full-Stack Engineer | REMOTE (US time zones) | Contract or Full-time | https://obi9.ai/jobs/full-stack-engineer A hedge fund analyst covering therapeutics has to watch hundreds of companies at once: press releases, SEC filings, management calls, updates on government sites, clinical data publications. Obi9 ingests all of it and surface what matters. Hedge funds pay for it today. We are early and the team is small, so you would own entire surfaces of the product rather than pick up tickets: - Ship full-stack features end to end, from the data model to the interface. - Build the ingestion",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-006",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Vistulo | Fully REMOTE (Poland or Romanian residents only) | B2B contract | US Eastern timezone overlap required Vistulo is a boutique outso",
+      "url": "https://news.ycombinator.com/item?id=49523978",
+      "source": "hn",
+      "company_or_poster": "koliber",
+      "published_at": "2026-09-01T16:09:58+00:00",
+      "snippet": "Vistulo | Fully REMOTE (Poland or Romanian residents only) | B2B contract | US Eastern timezone overlap required Vistulo is a boutique outsourcing company based in Poland. We specialize in expert-level talent for financial institutions. All roles are for work with a top North American banking client. All roles are 100% remote, B2B contract, rates are net + VAT in PLN, long-term. Senior Java Trading Systems Engineer — 270–300 zł/hr — equities & FX, algo order management and routing, low-latency core Java — https://ats.vistulo.com/roles/253cbd69-1019-4547-93b6-6ef8db... Senior React Frontend Dev",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-007",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Valkyrie Aero | Software Engineer (Autonomy, Perception, Frontend) | REMOTE (US) | Contract | U.S. Citizens | https://valkyrieaero.com Valky",
+      "url": "https://news.ycombinator.com/item?id=49578811",
+      "source": "hn",
+      "company_or_poster": "snzke",
+      "published_at": "2026-09-05T17:40:02+00:00",
+      "snippet": "Valkyrie Aero | Software Engineer (Autonomy, Perception, Frontend) | REMOTE (US) | Contract | U.S. Citizens | https://valkyrieaero.com Valkyrie Aero is a DoD prime contractor. We're building an airborne system for a manned counter-drone aircraft (that we operate) to enable a crew to find and engage Group 2-3 drones at low cost. Hiring contract software engineers for three roles: - Software Engineer, Autonomy - Software Engineer, Perception - Software Engineer, Frontend (HMI) We’re a small team (for now) so this isn’t your traditional defense program. Bureaucracy kept to the absolute minimum. I",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-008",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Legile | Senior Full-Stack AI Engineer (CTO track) | Antwerp, Belgium | HYBRID | Full-time | Belgium-based only Legile builds OneView, a leg",
+      "url": "https://news.ycombinator.com/item?id=49541500",
+      "source": "hn",
+      "company_or_poster": "vervoch",
+      "published_at": "2026-09-02T19:51:50+00:00",
+      "snippet": "Legile | Senior Full-Stack AI Engineer (CTO track) | Antwerp, Belgium | HYBRID | Full-time | Belgium-based only Legile builds OneView, a legal AI platform that legal teams use in production for contract review, risk and compliance. We recently joined the Anchr software group and are scaling from proven MVP to production-grade platform. You join as the third person in the team, next to the two founders, and take technical ownership of OneView: retrieval (PostgreSQL/pgvector), LangGraph pipelines, FastAPI backend, React/TypeScript frontend, plus the CI/CD and observability that let a small team ",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-009",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Jawa.gg | Software Engineer | Boulder, CO or remote | Contract or Full Time Jawa is the marketplace for gamers - think gaming PCs, GPUs, con",
+      "url": "https://news.ycombinator.com/item?id=49527374",
+      "source": "hn",
+      "company_or_poster": "galleypage",
+      "published_at": "2026-09-01T20:06:02+00:00",
+      "snippet": "Jawa.gg | Software Engineer | Boulder, CO or remote | Contract or Full Time Jawa is the marketplace for gamers - think gaming PCs, GPUs, consoles, and the like. We're a small, VC-funded team with a big business, and have been operating since 2021. We're are looking for full-stack software engineers to build and maintain our peer-to-peer marketplace. The tech stack is mostly Typescript, with Next.js, Node.js, Postgres, and other fairly standard web-tools / infra. Learn more at https://jawagg.notion.site/Full-Stack-Software-Engineer-412c...",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-010",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "BOSS-IQ | CTO Partner | REMOTE (worldwide) | Full-time | Istanbul-based company | https://boss-iq.com BOSS-IQ is an AI strategic-planning pr",
+      "url": "https://news.ycombinator.com/item?id=49598051",
+      "source": "hn",
+      "company_or_poster": "ahmet_boss-iq",
+      "published_at": "2026-09-07T13:13:20+00:00",
+      "snippet": "BOSS-IQ | CTO Partner | REMOTE (worldwide) | Full-time | Istanbul-based company | https://boss-iq.com BOSS-IQ is an AI strategic-planning product for owner-operators of small and medium businesses. The boss describes an idea that has been stuck for years; a research-and-question session returns an implementation-ready plan. In production since June, hand-onboarding our first paying customers since August, invitation-only. I am looking for a partner rather than a first hire, and I need two things in one person. An experienced developer who has genuinely run software in production — deployments,",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-011",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Search Atlas | Product Engineer (Product Manager role, not a Full-stack role) | REMOTE (anywhere, EST hours) | Full-time contractor | $23-$3",
+      "url": "https://news.ycombinator.com/item?id=49547792",
+      "source": "hn",
+      "company_or_poster": "JP_recruiter_Se",
+      "published_at": "2026-09-03T09:25:29+00:00",
+      "snippet": "Search Atlas | Product Engineer (Product Manager role, not a Full-stack role) | REMOTE (anywhere, EST hours) | Full-time contractor | $23-$34 USD/hour | https://careers.searchatlas.com/jobs/599248-product-engineer... We're ~160 people, fully remote, building an AI marketing platform. Our main product is OTTO, which runs a site's SEO on its own - it reads live search data and pushes the technical and on-page fixes itself, nobody queues them up. Around that we've got ad automation for Google and Meta, GBP management for multi-location brands, content gen, and LLM visibility tracking (whether Cha",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-012",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "We The Flywheel | AI-Native Engineers & Operators | REMOTE (worldwide) | Contract / Part-time (10–40 hrs/wk) We're a remote-first digital pr",
+      "url": "https://news.ycombinator.com/item?id=49522930",
+      "source": "hn",
+      "company_or_poster": "norejisace",
+      "published_at": "2026-09-01T15:03:07+00:00",
+      "snippet": "We The Flywheel | AI-Native Engineers & Operators | REMOTE (worldwide) | Contract / Part-time (10–40 hrs/wk) We're a remote-first digital product studio building across sports media, AI, fitness, and personal branding — 500+ web properties and deeply AI-native workflows. AI does the heavy lifting here, but it's the leverage, not the point: we hire for the human judgment, ingenuity, and taste on top of it. Open now: * Agentic PR Coordinator — media lists, outreach, drafting, and AI-assisted PR workflows for earned media. Entry-level, 10–40 hrs/week. * Agentic-Led Social Media Marketer — AI-nati",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-09-16-013",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "snippet": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-09-16-014",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Why Thrive, Founders Fund, and Antonio Gracias are betting on hearing aids",
+      "url": "https://techcrunch.com/podcast/why-thrive-founders-fund-and-antonio-gracias-are-betting-on-hearing-aids/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-09-16T15:30:43+00:00",
+      "snippet": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?” That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recently raised $163 million from the likes of Founders Fund, Thrive Capital, and Valor Equity […]",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-09-16-015",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-09-15T13:00:00+00:00",
+      "snippet": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-09-16-016",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "New Italian unicorn Exein rides the physical AI wave",
+      "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-09-15T12:19:38+00:00",
+      "snippet": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-09-16-017",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-09-14T20:07:37+00:00",
+      "snippet": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-09-16-018",
+      "contact": "",
+      "found_date": "2026-09-16",
+      "status": "new"
+    }
+  ]
+}
