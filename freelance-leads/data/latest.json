@@ -1,46 +1,12 @@
 {
-  "generated_at": "2026-10-05T14:13:09.292781-07:00",
-  "run_date": "2026-10-05",
+  "generated_at": "2026-10-12T14:50:42.276928-07:00",
+  "run_date": "2026-10-12",
   "sources": [
     "hn",
     "funding"
   ],
-  "count": 21,
+  "count": 18,
   "items": [
-    {
-      "title": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225",
-      "url": "https://news.ycombinator.com/item?id=49961408",
-      "source": "hn",
-      "company_or_poster": "coltonopaxa",
-      "published_at": "2026-10-05T06:41:33+00:00",
-      "snippet": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225K + 0.5%–1.5% equity | opaxa.com Every business with many locations already has systems that record what happened yesterday. None of them tell the manager what to do today. Opaxa does. It reads the systems a business already runs, learns how that operation actually works, and puts the right decision in front of the right manager: how busy tomorrow will be, who to schedule, what to order, which invoice overcharged you. Then it tracks what each decision earn",
-      "categories": [
-        "ai-infra",
-        "web-dev"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-05-001",
-      "contact": "",
-      "found_date": "2026-10-05",
-      "status": "new"
-    },
-    {
-      "title": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in A",
-      "url": "https://news.ycombinator.com/item?id=49962075",
-      "source": "hn",
-      "company_or_poster": "seharetimad",
-      "published_at": "2026-10-05T08:17:54+00:00",
-      "snippet": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in Asia) builds AI, AR and computer-vision personalization for beauty brands and retailers: skin analysis, virtual try-on and product recommendations. We work with 120+ brands and retailers in 40+ countries, and our product reaches millions of end users. We're a small team (30+ people, about a dozen engineers) spread across eight time zones, and we've reorganized around the idea that one builder with the right tools can do what a team used to. This role exists",
-      "categories": [
-        "ai-infra",
-        "web-dev"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-05-002",
-      "contact": "",
-      "found_date": "2026-10-05",
-      "status": "new"
-    },
     {
       "title": "EggAI | IT Operations Lead, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique ",
       "url": "https://news.ycombinator.com/item?id=49931362",
@@ -53,9 +19,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-003",
+      "id": "pipe-2026-10-12-001",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -69,25 +35,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-004",
+      "id": "pipe-2026-10-12-002",
       "contact": "",
-      "found_date": "2026-10-05",
-      "status": "new"
-    },
-    {
-      "title": "AssumeAI | AI Engineer (£30/hr) and Senior AI Engineer (£50/hr) | Contract | REMOTE (UK) | https://assume-ai.com We are a fast-growing AI st",
-      "url": "https://news.ycombinator.com/item?id=49961551",
-      "source": "hn",
-      "company_or_poster": "AssumeAI",
-      "published_at": "2026-10-05T07:01:46+00:00",
-      "snippet": "AssumeAI | AI Engineer (£30/hr) and Senior AI Engineer (£50/hr) | Contract | REMOTE (UK) | https://assume-ai.com We are a fast-growing AI startup. We help SMEs find where AI will produce a measurable return, then build the systems that deliver it: AI agents, Claude skills and production-grade business software, up to full business and enterprise systems. Stack: Claude Code, Vercel, Supabase. A good fit for software engineers moving into AI engineering: - Two weeks of paid AI training in our framework and methods before your first project. - Projects typically run over several months, and each ",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-05-005",
-      "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -101,9 +51,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-006",
+      "id": "pipe-2026-10-12-003",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -117,25 +67,58 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-007",
+      "id": "pipe-2026-10-12-004",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
-      "title": "Devin (The Devin Experience) | Founding Hardware Lead | Toronto or Boston preferred | REMOTE (North American time zones) | Full-time | Compe",
-      "url": "https://news.ycombinator.com/item?id=49922921",
+      "title": "Quantum Minds | Senior Software Engineer – LLVM/Fuzzing/Program Analysis | Contract | REMOTE (US) | Full-Time Quantum Minds is hiring a seni",
+      "url": "https://news.ycombinator.com/item?id=49979600",
       "source": "hn",
-      "company_or_poster": "experiencedevin",
-      "published_at": "2026-10-01T15:23:47+00:00",
-      "snippet": "Devin (The Devin Experience) | Founding Hardware Lead | Toronto or Boston preferred | REMOTE (North American time zones) | Full-time | Competitive salary + meaningful founding equity | https://experiencedevin.com/jobs We're building an intimate device that responds in real time to a live AI-generated story and to her body: an app-connected, sensor-equipped vibrator synced to an interactive audio story that AI performs live. The device follows the story, and the story follows her body. Our first 1,000 pre-orders sold out, and we've raised a $1.5M pre-seed. All-woman founding team (CEO is an exi",
+      "company_or_poster": "QMJobs",
+      "published_at": "2026-10-06T15:05:39+00:00",
+      "snippet": "Quantum Minds | Senior Software Engineer – LLVM/Fuzzing/Program Analysis | Contract | REMOTE (US) | Full-Time Quantum Minds is hiring a senior engineer to support a modern analysis pipeline involving compiler tooling, program analysis, fuzzing, and automation. The work includes preparing the codebase for future open‑source release. You’ll work on: • LLVM IR generation + metadata • LLVM pass development (IR cleanup, MMIO handling, fuzzability improvements) • Fuzzing harnesses + campaigns (libFuzzer, AFL++, Honggfuzz) • Crash triage, deduplication, automated reporting • Python tooling + CI impro",
       "categories": [
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-008",
+      "id": "pipe-2026-10-12-005",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
+      "status": "new"
+    },
+    {
+      "title": "AssumeAI | AI Engineer (£30/hr) and Senior AI Engineer (£50/hr) | Contract | REMOTE (UK) | https://assume-ai.com We are a fast-growing AI st",
+      "url": "https://news.ycombinator.com/item?id=49961551",
+      "source": "hn",
+      "company_or_poster": "AssumeAI",
+      "published_at": "2026-10-05T07:01:46+00:00",
+      "snippet": "AssumeAI | AI Engineer (£30/hr) and Senior AI Engineer (£50/hr) | Contract | REMOTE (UK) | https://assume-ai.com We are a fast-growing AI startup. We help SMEs find where AI will produce a measurable return, then build the systems that deliver it: AI agents, Claude skills and production-grade business software, up to full business and enterprise systems. Stack: Claude Code, Vercel, Supabase. A good fit for software engineers moving into AI engineering: - Two weeks of paid AI training in our framework and methods before your first project. - Projects typically run over several months, and each ",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-12-006",
+      "contact": "",
+      "found_date": "2026-10-12",
+      "status": "new"
+    },
+    {
+      "title": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225",
+      "url": "https://news.ycombinator.com/item?id=49961408",
+      "source": "hn",
+      "company_or_poster": "coltonopaxa",
+      "published_at": "2026-10-05T06:41:33+00:00",
+      "snippet": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225K + 0.5%–1.5% equity | opaxa.com Every business with many locations already has systems that record what happened yesterday. None of them tell the manager what to do today. Opaxa does. It reads the systems a business already runs, learns how that operation actually works, and puts the right decision in front of the right manager: how busy tomorrow will be, who to schedule, what to order, which invoice overcharged you. Then it tracks what each decision earn",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-12-007",
+      "contact": "",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -150,9 +133,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-009",
+      "id": "pipe-2026-10-12-008",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -166,9 +149,26 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-010",
+      "id": "pipe-2026-10-12-009",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
+      "status": "new"
+    },
+    {
+      "title": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in A",
+      "url": "https://news.ycombinator.com/item?id=49962075",
+      "source": "hn",
+      "company_or_poster": "seharetimad",
+      "published_at": "2026-10-05T08:17:54+00:00",
+      "snippet": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in Asia) builds AI, AR and computer-vision personalization for beauty brands and retailers: skin analysis, virtual try-on and product recommendations. We work with 120+ brands and retailers in 40+ countries, and our product reaches millions of end users. We're a small team (30+ people, about a dozen engineers) spread across eight time zones, and we've reorganized around the idea that one builder with the right tools can do what a team used to. This role exists",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-12-010",
+      "contact": "",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -182,42 +182,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-011",
+      "id": "pipe-2026-10-12-011",
       "contact": "",
-      "found_date": "2026-10-05",
-      "status": "new"
-    },
-    {
-      "title": "We The Flywheel | Production Designer | REMOTE (async, global) | Contract, part-time to full-time | https://wetheflywheel.com/en/careers/pro",
-      "url": "https://news.ycombinator.com/item?id=49922606",
-      "source": "hn",
-      "company_or_poster": "norejisace",
-      "published_at": "2026-10-01T15:03:25+00:00",
-      "snippet": "We The Flywheel | Production Designer | REMOTE (async, global) | Contract, part-time to full-time | https://wetheflywheel.com/en/careers/production-designer-rem... We're a small, agent-led studio. Most of our ops run through AI agents, and the people here direct them. We need a production designer who turns briefs into polished, on-brand marketing, social and ad creative, fast, inside an existing brand system. What we're looking for: - Real Figma experience (required) - You've wired Figma into coding agents like Codex or Claude Code (e.g. Figma MCP), so a design becomes working code without a ",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-05-012",
-      "contact": "",
-      "found_date": "2026-10-05",
-      "status": "new"
-    },
-    {
-      "title": "RMG | Sr. WordPress Engineer | $100-150k | REMOTE (US/Canada) We run 100+ WordPress and Next.js properties and we're rebuilding our developm",
-      "url": "https://news.ycombinator.com/item?id=49922829",
-      "source": "hn",
-      "company_or_poster": "syzaree",
-      "published_at": "2026-10-01T15:17:24+00:00",
-      "snippet": "RMG | Sr. WordPress Engineer | $100-150k | REMOTE (US/Canada) We run 100+ WordPress and Next.js properties and we're rebuilding our development workflow around coding agents. You'd own the platform and set the standard for how we use AI in production. Stack: WordPress (Gutenberg, ACF, WP-CLI), PHP, MySQL, Next.js, Linux/Docker, GitHub Actions, n8n. We want someone who has shipped production code with Claude Code, Codex or similar and has real opinions about where agents help and where they don't. US: W2 or contract. Canada: contract. Contract available with an immediate start. Email: contact@r",
-      "categories": [
-        "ai-infra",
-        "web-dev"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-05-013",
-      "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -231,9 +198,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-014",
+      "id": "pipe-2026-10-12-012",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -247,9 +214,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-015",
+      "id": "pipe-2026-10-12-013",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -264,9 +231,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-016",
+      "id": "pipe-2026-10-12-014",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -281,9 +248,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-017",
+      "id": "pipe-2026-10-12-015",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
@@ -297,57 +264,41 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-05-018",
+      "id": "pipe-2026-10-12-016",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
-      "title": "Etched fields funding offers at $40B+ valuation, sources say",
-      "url": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
       "source": "funding",
       "company_or_poster": "",
-      "published_at": "2026-10-05T20:24:09+00:00",
-      "snippet": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
+      "published_at": "2026-10-12T12:47:59+00:00",
+      "snippet": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
       "categories": [
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-10-05-019",
+      "id": "pipe-2026-10-12-017",
       "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     },
     {
-      "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-      "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
       "source": "funding",
       "company_or_poster": "",
-      "published_at": "2026-10-05T18:07:07+00:00",
-      "snippet": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+      "published_at": "2026-10-08T18:19:45+00:00",
+      "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
       "categories": [
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-10-05-020",
+      "id": "pipe-2026-10-12-018",
       "contact": "",
-      "found_date": "2026-10-05",
-      "status": "new"
-    },
-    {
-      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-      "source": "funding",
-      "company_or_poster": "",
-      "published_at": "2026-10-01T21:55:22+00:00",
-      "snippet": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "funding-news",
-      "id": "pipe-2026-10-05-021",
-      "contact": "",
-      "found_date": "2026-10-05",
+      "found_date": "2026-10-12",
       "status": "new"
     }
   ]
