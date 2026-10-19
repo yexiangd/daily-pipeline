@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-12T14:50:42.276928-07:00",
-  "run_date": "2026-10-12",
+  "generated_at": "2026-10-19T12:27:23.533284-07:00",
+  "run_date": "2026-10-19",
   "sources": [
     "hn",
     "funding"
   ],
-  "count": 18,
+  "count": 24,
   "items": [
     {
       "title": "EggAI | IT Operations Lead, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique ",
@@ -19,9 +19,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-001",
+      "id": "pipe-2026-10-19-001",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -35,9 +35,26 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-002",
+      "id": "pipe-2026-10-19-002",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused deve",
+      "url": "https://news.ycombinator.com/item?id=50068986",
+      "source": "hn",
+      "company_or_poster": "adi_singh_21",
+      "published_at": "2026-10-13T09:31:19+00:00",
+      "snippet": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused development agency based in Hyderabad, India. We build web apps (Next.js, React, Node), mobile apps (React Native/Expo) and AI automation (LLM integrations, RAG, document processing, n8n/Python workflows) for startups and small businesses. I'm the founder, an engineer with 7+ years in full-stack and AI, and I handle scoping and delivery. I'm looking for people anywhere in the world who can find and close clients in their own market. - 15% of project value on e",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-003",
+      "contact": "",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -51,9 +68,25 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-003",
+      "id": "pipe-2026-10-19-004",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email",
+      "url": "https://news.ycombinator.com/item?id=50066343",
+      "source": "hn",
+      "company_or_poster": "ncaroyannis",
+      "published_at": "2026-10-13T03:40:30+00:00",
+      "snippet": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email platform built for teams. We provide developers, designers, and operations with the tools they need to manage their product emails without needing development work. We're currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has worked in a start",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-005",
+      "contact": "",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -67,9 +100,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-004",
+      "id": "pipe-2026-10-19-006",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -83,9 +116,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-005",
+      "id": "pipe-2026-10-19-007",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -99,26 +132,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-006",
+      "id": "pipe-2026-10-19-008",
       "contact": "",
-      "found_date": "2026-10-12",
-      "status": "new"
-    },
-    {
-      "title": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225",
-      "url": "https://news.ycombinator.com/item?id=49961408",
-      "source": "hn",
-      "company_or_poster": "coltonopaxa",
-      "published_at": "2026-10-05T06:41:33+00:00",
-      "snippet": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225K + 0.5%–1.5% equity | opaxa.com Every business with many locations already has systems that record what happened yesterday. None of them tell the manager what to do today. Opaxa does. It reads the systems a business already runs, learns how that operation actually works, and puts the right decision in front of the right manager: how busy tomorrow will be, who to schedule, what to order, which invoice overcharged you. Then it tracks what each decision earn",
-      "categories": [
-        "ai-infra",
-        "web-dev"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-12-007",
-      "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -133,9 +149,26 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-008",
+      "id": "pipe-2026-10-19-009",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225",
+      "url": "https://news.ycombinator.com/item?id=49961408",
+      "source": "hn",
+      "company_or_poster": "coltonopaxa",
+      "published_at": "2026-10-05T06:41:33+00:00",
+      "snippet": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225K + 0.5%–1.5% equity | opaxa.com Every business with many locations already has systems that record what happened yesterday. None of them tell the manager what to do today. Opaxa does. It reads the systems a business already runs, learns how that operation actually works, and puts the right decision in front of the right manager: how busy tomorrow will be, who to schedule, what to order, which invoice overcharged you. Then it tracks what each decision earn",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-010",
+      "contact": "",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -149,9 +182,25 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-009",
+      "id": "pipe-2026-10-19-011",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Sundream Studio | Multiple Roles | Full-time / Contract | NYC / Remote Sundream Studio is an AI filmmaking app that makes it impossibly easy",
+      "url": "https://news.ycombinator.com/item?id=49932275",
+      "source": "hn",
+      "company_or_poster": "sleno",
+      "published_at": "2026-10-02T11:25:48+00:00",
+      "snippet": "Sundream Studio | Multiple Roles | Full-time / Contract | NYC / Remote Sundream Studio is an AI filmmaking app that makes it impossibly easy to create long-form AI video content. Try it here for free: https://sundream.studio We’re hiring: • AI Video Content Creators — make films, ads, and tutorials with Sundream, experiment with new models, and help shape our creative workflows. • Software Engineer — build the assistant, generation infrastructure, and editing tools that turn creative decisions into finished videos. • Go-to-Market — help filmmakers, creators, and businesses discover Sundream th",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-012",
+      "contact": "",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -166,25 +215,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-010",
+      "id": "pipe-2026-10-19-013",
       "contact": "",
-      "found_date": "2026-10-12",
-      "status": "new"
-    },
-    {
-      "title": "Sundream Studio | Multiple Roles | Full-time / Contract | NYC / Remote Sundream Studio is an AI filmmaking app that makes it impossibly easy",
-      "url": "https://news.ycombinator.com/item?id=49932275",
-      "source": "hn",
-      "company_or_poster": "sleno",
-      "published_at": "2026-10-02T11:25:48+00:00",
-      "snippet": "Sundream Studio | Multiple Roles | Full-time / Contract | NYC / Remote Sundream Studio is an AI filmmaking app that makes it impossibly easy to create long-form AI video content. Try it here for free: https://sundream.studio We’re hiring: • AI Video Content Creators — make films, ads, and tutorials with Sundream, experiment with new models, and help shape our creative workflows. • Software Engineer — build the assistant, generation infrastructure, and editing tools that turn creative decisions into finished videos. • Go-to-Market — help filmmakers, creators, and businesses discover Sundream th",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-12-011",
-      "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -198,9 +231,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-012",
+      "id": "pipe-2026-10-19-014",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -214,9 +247,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-013",
+      "id": "pipe-2026-10-19-015",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -231,9 +264,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-014",
+      "id": "pipe-2026-10-19-016",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -248,9 +281,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-015",
+      "id": "pipe-2026-10-19-017",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
@@ -264,41 +297,105 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-12-016",
+      "id": "pipe-2026-10-19-018",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
       "source": "funding",
       "company_or_poster": "",
-      "published_at": "2026-10-12T12:47:59+00:00",
-      "snippet": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.",
+      "published_at": "2026-10-19T19:00:12+00:00",
+      "snippet": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
       "categories": [
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-10-12-017",
+      "id": "pipe-2026-10-19-019",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
       "status": "new"
     },
     {
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
       "source": "funding",
       "company_or_poster": "",
-      "published_at": "2026-10-08T18:19:45+00:00",
-      "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "published_at": "2026-10-19T18:37:27+00:00",
+      "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
       "categories": [
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-10-12-018",
+      "id": "pipe-2026-10-19-020",
       "contact": "",
-      "found_date": "2026-10-12",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-17T21:31:32+00:00",
+      "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-021",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-19T18:00:39+00:00",
+      "snippet": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-022",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-15T14:47:09+00:00",
+      "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-023",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-14T22:00:00+00:00",
+      "snippet": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-024",
+      "contact": "",
+      "found_date": "2026-10-19",
       "status": "new"
     }
   ]

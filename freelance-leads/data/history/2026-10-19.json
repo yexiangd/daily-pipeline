@@ -1,0 +1,402 @@
+{
+  "generated_at": "2026-10-19T12:27:23.533284-07:00",
+  "run_date": "2026-10-19",
+  "sources": [
+    "hn",
+    "funding"
+  ],
+  "count": 24,
+  "items": [
+    {
+      "title": "EggAI | IT Operations Lead, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique ",
+      "url": "https://news.ycombinator.com/item?id=49931362",
+      "source": "hn",
+      "company_or_poster": "nherment",
+      "published_at": "2026-10-02T09:00:41+00:00",
+      "snippet": "EggAI | IT Operations Lead, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consultancy and are quite experienced. A lot of us have extensive consultant experience. You will join a small, highly skilled remote team of engineers and transformation practitioners working at the forefront of enterprise AI. We use AI for both development and in our solutions. We are looking for engineers that are critical thinkers, understand the limitations of AI but also where it can have a positive impact. Apply at: https://grnh.se/wr97lgu2teu Our w",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-001",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "OpenSanctions | Product Engineer | Berlin, Germany / REMOTE (CET ±3 preferred) | Freelance / employment OpenSanctions is a small, bootstrapp",
+      "url": "https://news.ycombinator.com/item?id=49922910",
+      "source": "hn",
+      "company_or_poster": "pudo",
+      "published_at": "2026-10-01T15:23:01+00:00",
+      "snippet": "OpenSanctions | Product Engineer | Berlin, Germany / REMOTE (CET ±3 preferred) | Freelance / employment OpenSanctions is a small, bootstrapped company building an open source database of sanctioned people and companies, politicians, and other entities of public interest. Journalists use it for investigations; hundreds of businesses use it for compliance screening. I'm looking for a product engineer to own the systems around our commercial product: customer signup and lifecycle management, billing, reporting and analytics, and tools for our support team. You'd work across Python, SQL, and React",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-002",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused deve",
+      "url": "https://news.ycombinator.com/item?id=50068986",
+      "source": "hn",
+      "company_or_poster": "adi_singh_21",
+      "published_at": "2026-10-13T09:31:19+00:00",
+      "snippet": "Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a small AI-focused development agency based in Hyderabad, India. We build web apps (Next.js, React, Node), mobile apps (React Native/Expo) and AI automation (LLM integrations, RAG, document processing, n8n/Python workflows) for startups and small businesses. I'm the founder, an engineer with 7+ years in full-stack and AI, and I handle scoping and delivery. I'm looking for people anywhere in the world who can find and close clients in their own market. - 15% of project value on e",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-003",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Toolhouse AI | Head of AI Sales / AI Go To Market | SF, ATX, or REMOTE (US) | Full-time | $180k–$250k OTE + Equity | https://toolhouse.ai To",
+      "url": "https://news.ycombinator.com/item?id=49926232",
+      "source": "hn",
+      "company_or_poster": "toolhouseAI",
+      "published_at": "2026-10-01T19:47:48+00:00",
+      "snippet": "Toolhouse AI | Head of AI Sales / AI Go To Market | SF, ATX, or REMOTE (US) | Full-time | $180k–$250k OTE + Equity | https://toolhouse.ai Toolhouse AI builds autonomous AI agents that execute complex, multi-step business operations and workflows across 1,000+ integrations...letting teams delegate repetitive tasks in plain language. We are model-agnostic and serving fast-growing companies and prosumer teams. We've grown naturally in the last 7 months with a founder-led sales motion this far. But it wont stop here. We need to take it to the next level! We are hiring our first Head of Sales / Go ",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-004",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email",
+      "url": "https://news.ycombinator.com/item?id=50066343",
+      "source": "hn",
+      "company_or_poster": "ncaroyannis",
+      "published_at": "2026-10-13T03:40:30+00:00",
+      "snippet": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email platform built for teams. We provide developers, designers, and operations with the tools they need to manage their product emails without needing development work. We're currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has worked in a start",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-005",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Founding Engineer (Security / AI / Distributed Systems) — Stealth Project Next-Gen Secure DePIN x Multi-Agent SLM Trading Platform (Stealth ",
+      "url": "https://news.ycombinator.com/item?id=49934114",
+      "source": "hn",
+      "company_or_poster": "vanishAI_2026",
+      "published_at": "2026-10-02T14:46:57+00:00",
+      "snippet": "Founding Engineer (Security / AI / Distributed Systems) — Stealth Project Next-Gen Secure DePIN x Multi-Agent SLM Trading Platform (Stealth / DM for Proposal) We are building a highly secure, decentralized AI-automated asset management and trading platform running on edge DePIN nodes. The platform utilizes 10 specialized SLMs (Small Language Models) for asynchronous execution. To ensure absolute privacy for institutional and whale traders, we implement a hard-layered defense system. This eliminates the front-running and data-selling risks common in current \"free\" AI wallets. Tech we use: Carda",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-006",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Quantum Minds | Senior Software Engineer – LLVM/Fuzzing/Program Analysis | Contract | REMOTE (US) | Full-Time Quantum Minds is hiring a seni",
+      "url": "https://news.ycombinator.com/item?id=49979600",
+      "source": "hn",
+      "company_or_poster": "QMJobs",
+      "published_at": "2026-10-06T15:05:39+00:00",
+      "snippet": "Quantum Minds | Senior Software Engineer – LLVM/Fuzzing/Program Analysis | Contract | REMOTE (US) | Full-Time Quantum Minds is hiring a senior engineer to support a modern analysis pipeline involving compiler tooling, program analysis, fuzzing, and automation. The work includes preparing the codebase for future open‑source release. You’ll work on: • LLVM IR generation + metadata • LLVM pass development (IR cleanup, MMIO handling, fuzzability improvements) • Fuzzing harnesses + campaigns (libFuzzer, AFL++, Honggfuzz) • Crash triage, deduplication, automated reporting • Python tooling + CI impro",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-007",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "AssumeAI | AI Engineer (£30/hr) and Senior AI Engineer (£50/hr) | Contract | REMOTE (UK) | https://assume-ai.com We are a fast-growing AI st",
+      "url": "https://news.ycombinator.com/item?id=49961551",
+      "source": "hn",
+      "company_or_poster": "AssumeAI",
+      "published_at": "2026-10-05T07:01:46+00:00",
+      "snippet": "AssumeAI | AI Engineer (£30/hr) and Senior AI Engineer (£50/hr) | Contract | REMOTE (UK) | https://assume-ai.com We are a fast-growing AI startup. We help SMEs find where AI will produce a measurable return, then build the systems that deliver it: AI agents, Claude skills and production-grade business software, up to full business and enterprise systems. Stack: Claude Code, Vercel, Supabase. A good fit for software engineers moving into AI engineering: - Two weeks of paid AI training in our framework and methods before your first project. - Projects typically run over several months, and each ",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-008",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Privy.pro | Growth Marketing Engineer (AI-First) | REMOTE (Americas: US or LatAm) | Part-time contract, path to full-time | $3,500-$5,000 US",
+      "url": "https://news.ycombinator.com/item?id=49939260",
+      "source": "hn",
+      "company_or_poster": "scottfahl",
+      "published_at": "2026-10-02T22:11:43+00:00",
+      "snippet": "Privy.pro | Growth Marketing Engineer (AI-First) | REMOTE (Americas: US or LatAm) | Part-time contract, path to full-time | $3,500-$5,000 USD/month Privy.pro is an established software platform for residential real estate investors and agents, with a paying user base and seven-figure recurring revenue. Our intelligence is live: we track investor activity and market changes as they happen, and our patented algorithms turn that into personalized deal and market intelligence. We're looking for someone who builds growth systems with AI rather than just running campaigns. You'll work directly with ",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-009",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225",
+      "url": "https://news.ycombinator.com/item?id=49961408",
+      "source": "hn",
+      "company_or_poster": "coltonopaxa",
+      "published_at": "2026-10-05T06:41:33+00:00",
+      "snippet": "Opaxa | Founding Engineer, Forward Deployed (full-stack) | San Francisco Bay Area preferred, REMOTE (US) considered | Full-time | $175K–$225K + 0.5%–1.5% equity | opaxa.com Every business with many locations already has systems that record what happened yesterday. None of them tell the manager what to do today. Opaxa does. It reads the systems a business already runs, learns how that operation actually works, and puts the right decision in front of the right manager: how busy tomorrow will be, who to schedule, what to order, which invoice overcharged you. Then it tracks what each decision earn",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-010",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Workday | AI Creative Technologist | Pleasanton, CA | ONSITE | Contract Workday's in-house creative team already uses AI every day. We built",
+      "url": "https://news.ycombinator.com/item?id=49927917",
+      "source": "hn",
+      "company_or_poster": "chrismvarela",
+      "published_at": "2026-10-01T22:42:18+00:00",
+      "snippet": "Workday | AI Creative Technologist | Pleasanton, CA | ONSITE | Contract Workday's in-house creative team already uses AI every day. We built our own agent platform (Creative AI Studio) and now need a hands-on technologist to keep it running well and build what comes next. Half the work is building: new role-specific agents, plus integrations and automations over APIs and MCP servers that move work from request to brief to production to review with fewer manual handoffs. The other half is making shipped tools work for people: supporting users, improving agents through PRs, and teaching designer",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-011",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Sundream Studio | Multiple Roles | Full-time / Contract | NYC / Remote Sundream Studio is an AI filmmaking app that makes it impossibly easy",
+      "url": "https://news.ycombinator.com/item?id=49932275",
+      "source": "hn",
+      "company_or_poster": "sleno",
+      "published_at": "2026-10-02T11:25:48+00:00",
+      "snippet": "Sundream Studio | Multiple Roles | Full-time / Contract | NYC / Remote Sundream Studio is an AI filmmaking app that makes it impossibly easy to create long-form AI video content. Try it here for free: https://sundream.studio We’re hiring: • AI Video Content Creators — make films, ads, and tutorials with Sundream, experiment with new models, and help shape our creative workflows. • Software Engineer — build the assistant, generation infrastructure, and editing tools that turn creative decisions into finished videos. • Go-to-Market — help filmmakers, creators, and businesses discover Sundream th",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-012",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in A",
+      "url": "https://news.ycombinator.com/item?id=49962075",
+      "source": "hn",
+      "company_or_poster": "seharetimad",
+      "published_at": "2026-10-05T08:17:54+00:00",
+      "snippet": "Revieve Oy | Senior Product Engineer | REMOTE [Europe / (GMT+2)] | Contract, full-time | Revieve (Helsinki, with a US office and a team in Asia) builds AI, AR and computer-vision personalization for beauty brands and retailers: skin analysis, virtual try-on and product recommendations. We work with 120+ brands and retailers in 40+ countries, and our product reaches millions of end users. We're a small team (30+ people, about a dozen engineers) spread across eight time zones, and we've reorganized around the idea that one builder with the right tools can do what a team used to. This role exists",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-013",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "JustPark | Senior Software Engineer, Reporting | Hybrid: Dallas, TX | Full-Time/Perm | Competitive salary + Benefits. Apply at: https://appl",
+      "url": "https://news.ycombinator.com/item?id=49923163",
+      "source": "hn",
+      "company_or_poster": "Hollymcguigan",
+      "published_at": "2026-10-01T15:40:47+00:00",
+      "snippet": "JustPark | Senior Software Engineer, Reporting | Hybrid: Dallas, TX | Full-Time/Perm | Competitive salary + Benefits. Apply at: https://apply.workable.com/j/FE43DE896A JustPark is the premier partner offering both B2B solutions for destinations and B2C services for drivers, giving us the best of both worlds. We simplify the entire parking experience. From venues and councils to private driveways, our platform makes it simple for drivers to find, book, and pay for parking—while empowering our operating partners to deliver exceptional parking experiences. Join the JustPark Reporting team. You'll",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-014",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Role: UX/UI Designer (BAY AREA, CA - HYBRID) 1099 CONTRACT APPLY: https://vuetech.sh/careers Ongoing contract across several B2B products on",
+      "url": "https://news.ycombinator.com/item?id=49940125",
+      "source": "hn",
+      "company_or_poster": "pvuetech",
+      "published_at": "2026-10-03T00:05:32+00:00",
+      "snippet": "Role: UX/UI Designer (BAY AREA, CA - HYBRID) 1099 CONTRACT APPLY: https://vuetech.sh/careers Ongoing contract across several B2B products on one design system. First pass is a fixed-price flows-and-kit package, then hourly as each product grows. Not a full-time seat. Engagement: Ongoing 1099 contract. Milestone prices are set against a frozen spec. This is not a full-time seat. First package: A fixed-price flows-and-kit package, about three weeks. After that, $50–75/hr as each product grows. Location: SF Bay Area, hybrid, with in-person working sessions for kickoff and reviews. Start: Immediat",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-015",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Rebar | Software Engineers (Product, Applied AI, ML Infra, Data Platform) | ONSITE 5 days/week, New York City (union square area!) | Full-ti",
+      "url": "https://news.ycombinator.com/item?id=49934530",
+      "source": "hn",
+      "company_or_poster": "jlarks32",
+      "published_at": "2026-10-02T15:21:04+00:00",
+      "snippet": "Rebar | Software Engineers (Product, Applied AI, ML Infra, Data Platform) | ONSITE 5 days/week, New York City (union square area!) | Full-time | $150k–$260k + equity | https://jobs.ashbyhq.com/rebar We build AI estimating software for commercial HVAC, plumbing, and electrical contractors. Before bidding on a job, a contractor or estimator has to count every duct, fitting, diffuser, and piece of equipment across a set of construction drawings that can run to thousands of pages. We speed this up by ingesting the drawings, detecting the equipment schedules, finding symbols, and producing a priced",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-016",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Search Atlas | Product Engineer (Product Manager role, not a Full-stack role) | REMOTE (anywhere, EST hours) | Full-time contractor | $23-$3",
+      "url": "https://news.ycombinator.com/item?id=49931746",
+      "source": "hn",
+      "company_or_poster": "JP_recruiter_Se",
+      "published_at": "2026-10-02T10:00:32+00:00",
+      "snippet": "Search Atlas | Product Engineer (Product Manager role, not a Full-stack role) | REMOTE (anywhere, EST hours) | Full-time contractor | $23-$34 USD/hour | https://careers.searchatlas.com/jobs/599248-product-engineer... We're ~160 people, fully remote, building an AI marketing platform. Our main product is OTTO, which runs a site's SEO on its own - it reads live search data and pushes the technical and on-page fixes itself, nobody queues them up. Around that we've got ad automation for Google and Meta, GBP management for multi-location brands, content gen, and LLM visibility tracking (whether Cha",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-017",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Vistulo | Senior Java, C#, React & Calypso engineers, Calypso BA/PO | REMOTE (Poland or Romania) | B2B contract, pay ranges below Vistulo hi",
+      "url": "https://news.ycombinator.com/item?id=49930656",
+      "source": "hn",
+      "company_or_poster": "koliber",
+      "published_at": "2026-10-02T07:09:22+00:00",
+      "snippet": "Vistulo | Senior Java, C#, React & Calypso engineers, Calypso BA/PO | REMOTE (Poland or Romania) | B2B contract, pay ranges below Vistulo hires engineers in Poland to work on trading systems for capital-markets clients. All roles below are with a top North American bank: actively developed front-office systems (algorithmic order management and routing, FX, fixed income, and one of the largest Calypso deployments in the world). You work alongside the original engineering team in North America and Europe. This is core product work, not legacy support. Long-term and fully remote, with overlap wit",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-19-018",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-19T19:00:12+00:00",
+      "snippet": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-019",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-19T18:37:27+00:00",
+      "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-020",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-17T21:31:32+00:00",
+      "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-021",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
+      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-19T18:00:39+00:00",
+      "snippet": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-022",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-15T14:47:09+00:00",
+      "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-023",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    },
+    {
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-10-14T22:00:00+00:00",
+      "snippet": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-10-19-024",
+      "contact": "",
+      "found_date": "2026-10-19",
+      "status": "new"
+    }
+  ]
+}
