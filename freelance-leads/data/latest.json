@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T12:27:23.533284-07:00",
-  "run_date": "2026-10-19",
+  "generated_at": "2026-10-26T12:31:18.014827-07:00",
+  "run_date": "2026-10-26",
   "sources": [
     "hn",
     "funding"
   ],
-  "count": 24,
+  "count": 21,
   "items": [
     {
       "title": "EggAI | IT Operations Lead, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique ",
@@ -19,25 +19,25 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-001",
+      "id": "pipe-2026-10-26-001",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
-      "title": "OpenSanctions | Product Engineer | Berlin, Germany / REMOTE (CET ±3 preferred) | Freelance / employment OpenSanctions is a small, bootstrapp",
-      "url": "https://news.ycombinator.com/item?id=49922910",
+      "title": "Toolhouse AI | Head of AI Sales / AI Go To Market | SF, ATX, or REMOTE (US) | Full-time | $180k–$250k OTE + Equity | https://toolhouse.ai To",
+      "url": "https://news.ycombinator.com/item?id=49926232",
       "source": "hn",
-      "company_or_poster": "pudo",
-      "published_at": "2026-10-01T15:23:01+00:00",
-      "snippet": "OpenSanctions | Product Engineer | Berlin, Germany / REMOTE (CET ±3 preferred) | Freelance / employment OpenSanctions is a small, bootstrapped company building an open source database of sanctioned people and companies, politicians, and other entities of public interest. Journalists use it for investigations; hundreds of businesses use it for compliance screening. I'm looking for a product engineer to own the systems around our commercial product: customer signup and lifecycle management, billing, reporting and analytics, and tools for our support team. You'd work across Python, SQL, and React",
+      "company_or_poster": "toolhouseAI",
+      "published_at": "2026-10-01T19:47:48+00:00",
+      "snippet": "Toolhouse AI | Head of AI Sales / AI Go To Market | SF, ATX, or REMOTE (US) | Full-time | $180k–$250k OTE + Equity | https://toolhouse.ai Toolhouse AI builds autonomous AI agents that execute complex, multi-step business operations and workflows across 1,000+ integrations...letting teams delegate repetitive tasks in plain language. We are model-agnostic and serving fast-growing companies and prosumer teams. We've grown naturally in the last 7 months with a founder-led sales motion this far. But it wont stop here. We need to take it to the next level! We are hiring our first Head of Sales / Go ",
       "categories": [
-        "web-dev"
+        "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-002",
+      "id": "pipe-2026-10-26-002",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -52,41 +52,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-003",
+      "id": "pipe-2026-10-26-003",
       "contact": "",
-      "found_date": "2026-10-19",
-      "status": "new"
-    },
-    {
-      "title": "Toolhouse AI | Head of AI Sales / AI Go To Market | SF, ATX, or REMOTE (US) | Full-time | $180k–$250k OTE + Equity | https://toolhouse.ai To",
-      "url": "https://news.ycombinator.com/item?id=49926232",
-      "source": "hn",
-      "company_or_poster": "toolhouseAI",
-      "published_at": "2026-10-01T19:47:48+00:00",
-      "snippet": "Toolhouse AI | Head of AI Sales / AI Go To Market | SF, ATX, or REMOTE (US) | Full-time | $180k–$250k OTE + Equity | https://toolhouse.ai Toolhouse AI builds autonomous AI agents that execute complex, multi-step business operations and workflows across 1,000+ integrations...letting teams delegate repetitive tasks in plain language. We are model-agnostic and serving fast-growing companies and prosumer teams. We've grown naturally in the last 7 months with a founder-led sales motion this far. But it wont stop here. We need to take it to the next level! We are hiring our first Head of Sales / Go ",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-19-004",
-      "contact": "",
-      "found_date": "2026-10-19",
-      "status": "new"
-    },
-    {
-      "title": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email",
-      "url": "https://news.ycombinator.com/item?id=50066343",
-      "source": "hn",
-      "company_or_poster": "ncaroyannis",
-      "published_at": "2026-10-13T03:40:30+00:00",
-      "snippet": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email platform built for teams. We provide developers, designers, and operations with the tools they need to manage their product emails without needing development work. We're currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has worked in a start",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-19-005",
-      "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -100,9 +68,25 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-006",
+      "id": "pipe-2026-10-26-004",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
+      "status": "new"
+    },
+    {
+      "title": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email",
+      "url": "https://news.ycombinator.com/item?id=50066343",
+      "source": "hn",
+      "company_or_poster": "ncaroyannis",
+      "published_at": "2026-10-13T03:40:30+00:00",
+      "snippet": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a transactional email platform built for teams. We provide developers, designers, and operations with the tools they need to manage their product emails without needing development work. We're currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has worked in a start",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-26-005",
+      "contact": "",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -116,9 +100,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-007",
+      "id": "pipe-2026-10-26-006",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -132,9 +116,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-008",
+      "id": "pipe-2026-10-26-007",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -149,9 +133,25 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-009",
+      "id": "pipe-2026-10-26-008",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
+      "status": "new"
+    },
+    {
+      "title": "Workday | AI Creative Technologist | Pleasanton, CA | ONSITE | Contract Workday's in-house creative team already uses AI every day. We built",
+      "url": "https://news.ycombinator.com/item?id=49927917",
+      "source": "hn",
+      "company_or_poster": "chrismvarela",
+      "published_at": "2026-10-01T22:42:18+00:00",
+      "snippet": "Workday | AI Creative Technologist | Pleasanton, CA | ONSITE | Contract Workday's in-house creative team already uses AI every day. We built our own agent platform (Creative AI Studio) and now need a hands-on technologist to keep it running well and build what comes next. Half the work is building: new role-specific agents, plus integrations and automations over APIs and MCP servers that move work from request to brief to production to review with fewer manual handoffs. The other half is making shipped tools work for people: supporting users, improving agents through PRs, and teaching designer",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-26-009",
+      "contact": "",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -166,25 +166,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-010",
+      "id": "pipe-2026-10-26-010",
       "contact": "",
-      "found_date": "2026-10-19",
-      "status": "new"
-    },
-    {
-      "title": "Workday | AI Creative Technologist | Pleasanton, CA | ONSITE | Contract Workday's in-house creative team already uses AI every day. We built",
-      "url": "https://news.ycombinator.com/item?id=49927917",
-      "source": "hn",
-      "company_or_poster": "chrismvarela",
-      "published_at": "2026-10-01T22:42:18+00:00",
-      "snippet": "Workday | AI Creative Technologist | Pleasanton, CA | ONSITE | Contract Workday's in-house creative team already uses AI every day. We built our own agent platform (Creative AI Studio) and now need a hands-on technologist to keep it running well and build what comes next. Half the work is building: new role-specific agents, plus integrations and automations over APIs and MCP servers that move work from request to brief to production to review with fewer manual handoffs. The other half is making shipped tools work for people: supporting users, improving agents through PRs, and teaching designer",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-10-19-011",
-      "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -198,9 +182,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-012",
+      "id": "pipe-2026-10-26-011",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -215,9 +199,26 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-013",
+      "id": "pipe-2026-10-26-012",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
+      "status": "new"
+    },
+    {
+      "title": "OpenSanctions | Product Engineer | Berlin, Germany / REMOTE (CET ±3 preferred) | Freelance / employment | CLOSED NOW - STOP SENDING AGENTIC ",
+      "url": "https://news.ycombinator.com/item?id=49922910",
+      "source": "hn",
+      "company_or_poster": "pudo",
+      "published_at": "2026-10-01T15:23:01+00:00",
+      "snippet": "OpenSanctions | Product Engineer | Berlin, Germany / REMOTE (CET ±3 preferred) | Freelance / employment | CLOSED NOW - STOP SENDING AGENTIC BS. OpenSanctions is a small, bootstrapped company building an open source database of sanctioned people and companies, politicians, and other entities of public interest. Journalists use it for investigations; hundreds of businesses use it for compliance screening. I'm looking for a product engineer to own the systems around our commercial product: customer signup and lifecycle management, billing, reporting and analytics, and tools for our support team. ",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-10-26-013",
+      "contact": "",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -231,9 +232,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-014",
+      "id": "pipe-2026-10-26-014",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -247,9 +248,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-015",
+      "id": "pipe-2026-10-26-015",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -264,9 +265,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-016",
+      "id": "pipe-2026-10-26-016",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -281,9 +282,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-017",
+      "id": "pipe-2026-10-26-017",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
@@ -297,105 +298,57 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-10-19-018",
+      "id": "pipe-2026-10-26-018",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
       "source": "funding",
       "company_or_poster": "",
-      "published_at": "2026-10-19T19:00:12+00:00",
-      "snippet": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+      "published_at": "2026-10-21T20:57:40+00:00",
+      "snippet": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
       "categories": [
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-10-19-019",
+      "id": "pipe-2026-10-26-019",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+      "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
       "source": "funding",
       "company_or_poster": "",
-      "published_at": "2026-10-19T18:37:27+00:00",
-      "snippet": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+      "published_at": "2026-10-21T18:51:56+00:00",
+      "snippet": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
       "categories": [
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-10-19-020",
+      "id": "pipe-2026-10-26-020",
       "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     },
     {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
       "source": "funding",
       "company_or_poster": "",
-      "published_at": "2026-10-17T21:31:32+00:00",
-      "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "snippet": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
       "categories": [
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-10-19-021",
+      "id": "pipe-2026-10-26-021",
       "contact": "",
-      "found_date": "2026-10-19",
-      "status": "new"
-    },
-    {
-      "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
-      "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-      "source": "funding",
-      "company_or_poster": "",
-      "published_at": "2026-10-19T18:00:39+00:00",
-      "snippet": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "funding-news",
-      "id": "pipe-2026-10-19-022",
-      "contact": "",
-      "found_date": "2026-10-19",
-      "status": "new"
-    },
-    {
-      "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-      "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-      "source": "funding",
-      "company_or_poster": "",
-      "published_at": "2026-10-15T14:47:09+00:00",
-      "snippet": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "funding-news",
-      "id": "pipe-2026-10-19-023",
-      "contact": "",
-      "found_date": "2026-10-19",
-      "status": "new"
-    },
-    {
-      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
-      "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
-      "source": "funding",
-      "company_or_poster": "",
-      "published_at": "2026-10-14T22:00:00+00:00",
-      "snippet": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "funding-news",
-      "id": "pipe-2026-10-19-024",
-      "contact": "",
-      "found_date": "2026-10-19",
+      "found_date": "2026-10-26",
       "status": "new"
     }
   ]
