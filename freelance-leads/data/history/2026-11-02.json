@@ -1,0 +1,159 @@
+{
+  "generated_at": "2026-11-02T14:27:05.525938-08:00",
+  "run_date": "2026-11-02",
+  "sources": [
+    "hn",
+    "funding"
+  ],
+  "count": 9,
+  "items": [
+    {
+      "title": "Silkline | Software Engineer, Deployment Strategist | Chicago, Seattle | ONSITE | $150k-$225k + equity | https://silkline.ai PO #HN-2611 Sup",
+      "url": "https://news.ycombinator.com/item?id=50344816",
+      "source": "hn",
+      "company_or_poster": "bshul-silkline1",
+      "published_at": "2026-11-02T22:24:23+00:00",
+      "snippet": "Silkline | Software Engineer, Deployment Strategist | Chicago, Seattle | ONSITE | $150k-$225k + equity | https://silkline.ai PO #HN-2611 Supplier: you Line 1: Software Engineer qty 1 Line 2: Deployment Strategist qty 1 Need-by: yesterday Status: AWAITING SUPPLIER ACK Every hardware buyer knows this PO. It goes out, and then nothing happens: no ack, no ship date, just chasing over email while the spreadsheet and the ERP disagree. Silkline is the AI operating system for procurement at companies building satellites, launch vehicles, reactors, and robots (Machina Labs, Astranis, K2 Space, Castelio",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-001",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, React, PostgreSQL, Linux, AI-assi",
+      "url": "https://news.ycombinator.com/item?id=50344555",
+      "source": "hn",
+      "company_or_poster": "jandekkers",
+      "published_at": "2026-11-02T22:06:30+00:00",
+      "snippet": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, React, PostgreSQL, Linux, AI-assisted development (Claude Code and similar) Résumé/CV: https://aiwebcenter.com/about/resume/ Email: hello@aiwebcenter.com Fractional CTO and contract work: web apps that do real work (booking, ordering, portals, quoting), modernizing older systems, and shipping faster with AI coding tools without losing quality. Twelve working examples you can click through: https://aiwebcenter.com/work/examples/",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-002",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "Blackbird | Dev Shop | Remote (US only) | Contract Blackbird builds web, mobile, IoT products for startups and innovative companies. We work",
+      "url": "https://news.ycombinator.com/item?id=50342576",
+      "source": "hn",
+      "company_or_poster": "vpfaulkner",
+      "published_at": "2026-11-02T19:44:39+00:00",
+      "snippet": "Blackbird | Dev Shop | Remote (US only) | Contract Blackbird builds web, mobile, IoT products for startups and innovative companies. We work on interesting, greenfield projects, and rely on small, veteran teams who have lots of autonomy. Everyone is a remote contractor, and our work culture is low-drama and highly collaborative. No pointless meetings, no bureaucracy, no egos and lots of time spent building things. Projects typically range from 3-12 months and usually require full time hours (35/week). We’re looking for senior full stack engineers / CTO consultants / data scientists. We value e",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-003",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "REVNODE | Founding Sales (Founding AE) | Remote (US) | Part-time or Full-time | 1099 We build custom software solutions for all industries, ",
+      "url": "https://news.ycombinator.com/item?id=50342365",
+      "source": "hn",
+      "company_or_poster": "revnode",
+      "published_at": "2026-11-02T19:32:53+00:00",
+      "snippet": "REVNODE | Founding Sales (Founding AE) | Remote (US) | Part-time or Full-time | 1099 We build custom software solutions for all industries, for companies of all sizes. AI, embedded, sass, all of it. Business has been around for 11 years. Everything up to this point has been direct referral or through agencies. You'll be building out the sales department from zero. You will be supported to the best of my ability. This is a good role for someone who wants to build something from scratch and knows what they're doing. Expectation is that you own the entire relationship with the client, make sure t",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-004",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "SadServers | Software Engineer | REMOTE (Canada) | Part-time or Contract | $55 - $75/hr | https://sadservers.com I'm the founder of SadServe",
+      "url": "https://news.ycombinator.com/item?id=50341345",
+      "source": "hn",
+      "company_or_poster": "fduran",
+      "published_at": "2026-11-02T18:32:00+00:00",
+      "snippet": "SadServers | Software Engineer | REMOTE (Canada) | Part-time or Contract | $55 - $75/hr | https://sadservers.com I'm the founder of SadServers, a SaaS that provides hands-on challenges for Linux & DevOps/SRE engineers and assessments for hiring teams. It was launched (and quickly broken) here on HN four years ago and we've been growing steadily since then (about to pass 1M VMs served). Besides training and interviewing, companies use our platform to evaluate and/or train their SRE AI agents. I'm looking for a software engineer who can develop this offering, collaborating with customers and wor",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-005",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "Data Micro Technologies | Multiple Roles (OT, Networking, Security) | Jacksonville, FL | ONSITE Data Micro Technologies provides specialized",
+      "url": "https://news.ycombinator.com/item?id=50341800",
+      "source": "hn",
+      "company_or_poster": "fires10",
+      "published_at": "2026-11-02T18:58:56+00:00",
+      "snippet": "Data Micro Technologies | Multiple Roles (OT, Networking, Security) | Jacksonville, FL | ONSITE Data Micro Technologies provides specialized systems engineering, operational technology (OT), and infrastructure consulting. The interview process will not be long and drawn out. We want to fill these roles quickly. We are actively hiring for the following roles: 1. Automation Network Engineer (1-Year Contract | Onsite) Designing and maintaining isolated network environments for automation, virtualization (Proxmox SDN), and on-prem Kubernetes clusters. - Stack/Focus: SONiC (SonicNOS), Edgecore DCS2",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-006",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "Juro | AI Engineer (Agentic team) | London, UK | REMOTE (UK) | Full-time | £115k + equity Juro is an AI contract automation platform used by",
+      "url": "https://news.ycombinator.com/item?id=50339551",
+      "source": "hn",
+      "company_or_poster": "TEForstner",
+      "published_at": "2026-11-02T16:43:55+00:00",
+      "snippet": "Juro | AI Engineer (Agentic team) | London, UK | REMOTE (UK) | Full-time | £115k + equity Juro is an AI contract automation platform used by in-house legal and business teams. Our Agentic team builds Operator, the agent that works across contracts inside Juro: it answers questions and takes action on legal data. You'd build the tools that let it act across the product, own parts of the agent harness (planning, tool use, context) and put evals around what you ship, together with our QA team. Stack: TypeScript/Node.js, MongoDB, pgvector, AWS Bedrock, LiteLLM, Mastra, some React. Engineers pick t",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-007",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "ORFF Maestra | Prototype Developer; Technical Product Lead | REMOTE (US only) | Contract, part-time | https://orffmaestra.com We're preparin",
+      "url": "https://news.ycombinator.com/item?id=50339081",
+      "source": "hn",
+      "company_or_poster": "sybreycallwood",
+      "published_at": "2026-11-02T16:18:25+00:00",
+      "snippet": "ORFF Maestra | Prototype Developer; Technical Product Lead | REMOTE (US only) | Contract, part-time | https://orffmaestra.com We're preparing a U.S. Department of Education SBIR Phase IA proposal to build an assessment reasoning platform for school speech-language pathologists. It implements TTL-MSM, a fully specified decision framework for one of the hardest calls in school eligibility evaluations: whether a student's communication profile reflects a disorder or a difference. Clinicians code each source of evidence, and a fixed rule combines them. The rules are written; the software isn't. Th",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-008",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    },
+    {
+      "title": "Stratirus (a Tennetech company) | AI Developer + Linux Admin (junior to mid) | REMOTE (US only, Central Time hours) | US work authorization ",
+      "url": "https://news.ycombinator.com/item?id=50340134",
+      "source": "hn",
+      "company_or_poster": "StratirusHiring",
+      "published_at": "2026-11-02T17:19:04+00:00",
+      "snippet": "Stratirus (a Tennetech company) | AI Developer + Linux Admin (junior to mid) | REMOTE (US only, Central Time hours) | US work authorization required, no sponsorship | Full-time or part-time, contract or hire | $65k to $100k | No agencies Our optional take-home is a broken Ubuntu server: a service that won't stay up, a nightly report that hasn't gone out in days, and a disk that keeps filling. Fix it, write a script that heals a fresh box, and build a small read-only MCP tool so an AI agent can check on it. 60 to 90 minutes, unpaid, no LeetCode. If that sounds like fun, read on. We're a small a",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-02-009",
+      "contact": "",
+      "found_date": "2026-11-02",
+      "status": "new"
+    }
+  ]
+}
