@@ -1,75 +1,42 @@
 {
-  "generated_at": "2026-11-09T15:07:45.110326-08:00",
-  "run_date": "2026-11-09",
+  "generated_at": "2026-11-16T14:59:53.688879-08:00",
+  "run_date": "2026-11-16",
   "sources": [
     "hn",
     "funding"
   ],
-  "count": 23,
+  "count": 28,
   "items": [
     {
-      "title": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time Suns",
-      "url": "https://news.ycombinator.com/item?id=50427924",
+      "title": "Native | Founding Builder-in-Residence | San Francisco (preferred) or London |REMOTE or ONSITE | 3-month contract, $3,000-6,000/month | http",
+      "url": "https://news.ycombinator.com/item?id=50466168",
       "source": "hn",
-      "company_or_poster": "moystard",
-      "published_at": "2026-11-09T16:36:13+00:00",
-      "snippet": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time Sunsave is building what replaces your energy supplier. Customers switch to solar and a battery with nothing to pay upfront: kit, install, finance and long-term protection in one package, and the battery trades energy on the grid every day to push their bills towards zero. Founded in 2022, £113m Series A (equity and debt) in 2025, more than 3x growth last year, nearly 90 people. I lead engineering and data science. Software runs every step of the customer jour",
-      "categories": [
-        "ai-infra",
-        "web-dev"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-11-09-001",
-      "contact": "",
-      "found_date": "2026-11-09",
-      "status": "new"
-    },
-    {
-      "title": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I'm looking to hire ",
-      "url": "https://news.ycombinator.com/item?id=50428062",
-      "source": "hn",
-      "company_or_poster": "dejayy",
-      "published_at": "2026-11-09T16:46:20+00:00",
-      "snippet": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I'm looking to hire our first engineer to own architecture and build product first version. Stack: TypeScript, React/Next.js, Node.js and PostgreSQL. The core challenges: tenant isolation on a shared Postgres schema with row level security, multiple authentication flows, subdomain-based client portals and large video uploads. You should have personally shipped and maintained a production multi-tenant SaaS product, have strong PostgreSQL and data-modelling experience, and be a",
-      "categories": [
-        "web-dev"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-11-09-002",
-      "contact": "",
-      "found_date": "2026-11-09",
-      "status": "new"
-    },
-    {
-      "title": "AetherGrid | Founding GTM Lead | REMOTE (Worldwide) | Paid, Fractional / Contract AetherGrid ( https://www.aethergrid.co.ke ) is an open-sou",
-      "url": "https://news.ycombinator.com/item?id=50423766",
-      "source": "hn",
-      "company_or_poster": "WycliffeRotich",
-      "published_at": "2026-11-09T10:38:29+00:00",
-      "snippet": "AetherGrid | Founding GTM Lead | REMOTE (Worldwide) | Paid, Fractional / Contract AetherGrid ( https://www.aethergrid.co.ke ) is an open-source control plane for distributed AI workloads. I'm the founder and have built the technical foundation. We're now moving into commercial growth. I'm looking for a hands-on GTM operator to help acquire our first paying customers, develop partnerships and build a repeatable sales strategy. Ideal background: - B2B infrastructure, cloud, AI or developer tools sales. - Proven experience acquiring and closing technical customers. - Strong understanding of devel",
+      "company_or_poster": "georgewithnativ",
+      "published_at": "2026-11-12T12:23:34+00:00",
+      "snippet": "Native | Founding Builder-in-Residence | San Francisco (preferred) or London |REMOTE or ONSITE | 3-month contract, $3,000-6,000/month | https://withnative.ai We’re building an open-source workstation for teams that run on agents. Docs, projects and messaging live in one place that people and their agents share, on context the team owns. It runs locally or in the cloud, and on our benchmark it’s 40x more token-efficient than a plain Markdown vault. The research behind it is done with the Stanford Digital Economy Lab. You’d work directly with both founders for three months. Use it as your daily ",
       "categories": [
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-003",
+      "id": "pipe-2026-11-16-001",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
-      "title": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, ",
-      "url": "https://news.ycombinator.com/item?id=50420399",
+      "title": "CERN | Machine Learning Engineer | Geneva, Switzerland | HYBRID | Full-time, 3-year contract | From CHF 9,236/month, tax-free Not a physics ",
+      "url": "https://news.ycombinator.com/item?id=50480454",
       "source": "hn",
-      "company_or_poster": "OpenTrainAI",
-      "published_at": "2026-11-09T02:48:07+00:00",
-      "snippet": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, part-time AI training work. We are the hiring company and are actively filling this role. - $30–$100 per hour equivalent, paid per accepted task - 100% remote, United States - About 15 hours/week; choose your schedule We need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems that",
+      "company_or_poster": "lyluo",
+      "published_at": "2026-11-13T09:04:38+00:00",
+      "snippet": "CERN | Machine Learning Engineer | Geneva, Switzerland | HYBRID | Full-time, 3-year contract | From CHF 9,236/month, tax-free Not a physics job: this role is in CERN's healthcare AI team. CAFEIN, CERN's federated AI platform, trains models on medical data held by hospitals and research institutes across Europe without that data ever leaving them. It powers EU projects such as UMBRELLA and AIM-SAFE. It's hands-on ML engineering, from experiment to production: - designing and running ML experiments in Python (PyTorch, TensorFlow, JAX, scikit-learn) - deploying models on distributed infrastructur",
       "categories": [
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-004",
+      "id": "pipe-2026-11-16-002",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -84,9 +51,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-005",
+      "id": "pipe-2026-11-16-003",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -100,25 +67,25 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-006",
+      "id": "pipe-2026-11-16-004",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
-      "title": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, R",
-      "url": "https://news.ycombinator.com/item?id=50403646",
+      "title": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I'm looking to hire ",
+      "url": "https://news.ycombinator.com/item?id=50428062",
       "source": "hn",
-      "company_or_poster": "mustafadalga",
-      "published_at": "2026-11-07T11:35:58+00:00",
-      "snippet": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \\[at\\] gmail \\[dot\\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in roles ",
+      "company_or_poster": "dejayy",
+      "published_at": "2026-11-09T16:46:20+00:00",
+      "snippet": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I'm looking to hire our first engineer to own architecture and build product first version. Stack: TypeScript, React/Next.js, Node.js and PostgreSQL. The core challenges: tenant isolation on a shared Postgres schema with row level security, multiple authentication flows, subdomain-based client portals and large video uploads. You should have personally shipped and maintained a production multi-tenant SaaS product, have strong PostgreSQL and data-modelling experience, and be a",
       "categories": [
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-007",
+      "id": "pipe-2026-11-16-005",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -133,9 +100,75 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-008",
+      "id": "pipe-2026-11-16-006",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "AetherGrid | Founding GTM Lead | REMOTE (Worldwide) | Paid, Fractional / Contract AetherGrid ( https://www.aethergrid.co.ke ) is an open-sou",
+      "url": "https://news.ycombinator.com/item?id=50423766",
+      "source": "hn",
+      "company_or_poster": "WycliffeRotich",
+      "published_at": "2026-11-09T10:38:29+00:00",
+      "snippet": "AetherGrid | Founding GTM Lead | REMOTE (Worldwide) | Paid, Fractional / Contract AetherGrid ( https://www.aethergrid.co.ke ) is an open-source control plane for distributed AI workloads. I'm the founder and have built the technical foundation. We're now moving into commercial growth. I'm looking for a hands-on GTM operator to help acquire our first paying customers, develop partnerships and build a repeatable sales strategy. Ideal background: - B2B infrastructure, cloud, AI or developer tools sales. - Proven experience acquiring and closing technical customers. - Strong understanding of devel",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-16-007",
+      "contact": "",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, ",
+      "url": "https://news.ycombinator.com/item?id=50420399",
+      "source": "hn",
+      "company_or_poster": "OpenTrainAI",
+      "published_at": "2026-11-09T02:48:07+00:00",
+      "snippet": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, part-time AI training work. We are the hiring company and are actively filling this role. - $30–$100 per hour equivalent, paid per accepted task - 100% remote, United States - About 15 hours/week; choose your schedule We need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems that",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-16-008",
+      "contact": "",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote Senior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-con",
+      "url": "https://news.ycombinator.com/item?id=50495944",
+      "source": "hn",
+      "company_or_poster": "noordragon2004",
+      "published_at": "2026-11-14T10:50:31+00:00",
+      "snippet": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote Senior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces. Recent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities. Portfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon20",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-16-009",
+      "contact": "",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time Suns",
+      "url": "https://news.ycombinator.com/item?id=50427924",
+      "source": "hn",
+      "company_or_poster": "moystard",
+      "published_at": "2026-11-09T16:36:13+00:00",
+      "snippet": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time Sunsave is building what replaces your energy supplier. Customers switch to solar and a battery with nothing to pay upfront: kit, install, finance and long-term protection in one package, and the battery trades energy on the grid every day to push their bills towards zero. Founded in 2022, £113m Series A (equity and debt) in 2025, more than 3x growth last year, nearly 90 people. I lead engineering and data science. Software runs every step of the customer jour",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-16-010",
+      "contact": "",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -150,9 +183,25 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-009",
+      "id": "pipe-2026-11-16-011",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, R",
+      "url": "https://news.ycombinator.com/item?id=50403646",
+      "source": "hn",
+      "company_or_poster": "mustafadalga",
+      "published_at": "2026-11-07T11:35:58+00:00",
+      "snippet": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \\[at\\] gmail \\[dot\\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in roles ",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-16-012",
+      "contact": "",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -167,9 +216,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-010",
+      "id": "pipe-2026-11-16-013",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -183,9 +232,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-011",
+      "id": "pipe-2026-11-16-014",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -199,25 +248,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-012",
+      "id": "pipe-2026-11-16-015",
       "contact": "",
-      "found_date": "2026-11-09",
-      "status": "new"
-    },
-    {
-      "title": "iCallidus | Azure Intune Engineer | Denver, US | Remote | $130,000 - 160,000 | Full-Time Tech used: AI, Azure, Firmware, Support, Microsoft ",
-      "url": "https://news.ycombinator.com/item?id=50389352",
-      "source": "hn",
-      "company_or_poster": "grimre4p",
-      "published_at": "2026-11-06T07:45:00+00:00",
-      "snippet": "iCallidus | Azure Intune Engineer | Denver, US | Remote | $130,000 - 160,000 | Full-Time Tech used: AI, Azure, Firmware, Support, Microsoft Intune, Security, VPN, Incident Management We are iCallidus, Inc., a small-business federal IT contractor hiring an Azure Intune Engineer for an agency IT support team. The position is fully remote within the United States, using a secure Government VPN and Government-furnished equipment. More details and option to apply: https://devitjobs.com/jobs/iCallidus-Azure-Intune-Engineer",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "direct-ask",
-      "id": "pipe-2026-11-09-013",
-      "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -232,9 +265,25 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-014",
+      "id": "pipe-2026-11-16-016",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "iCallidus | Azure Intune Engineer | Denver, US | Remote | $130,000 - 160,000 | Full-Time Tech used: AI, Azure, Firmware, Support, Microsoft ",
+      "url": "https://news.ycombinator.com/item?id=50389352",
+      "source": "hn",
+      "company_or_poster": "grimre4p",
+      "published_at": "2026-11-06T07:45:00+00:00",
+      "snippet": "iCallidus | Azure Intune Engineer | Denver, US | Remote | $130,000 - 160,000 | Full-Time Tech used: AI, Azure, Firmware, Support, Microsoft Intune, Security, VPN, Incident Management We are iCallidus, Inc., a small-business federal IT contractor hiring an Azure Intune Engineer for an agency IT support team. The position is fully remote within the United States, using a secure Government VPN and Government-furnished equipment. More details and option to apply: https://devitjobs.com/jobs/iCallidus-Azure-Intune-Engineer",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-16-017",
+      "contact": "",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -248,9 +297,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-015",
+      "id": "pipe-2026-11-16-018",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -264,9 +313,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-016",
+      "id": "pipe-2026-11-16-019",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -280,9 +329,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-017",
+      "id": "pipe-2026-11-16-020",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -296,9 +345,9 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-018",
+      "id": "pipe-2026-11-16-021",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -313,9 +362,9 @@
         "web-dev"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-019",
+      "id": "pipe-2026-11-16-022",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -329,9 +378,73 @@
         "ai-infra"
       ],
       "signal": "direct-ask",
-      "id": "pipe-2026-11-09-020",
+      "id": "pipe-2026-11-16-023",
       "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-16T17:02:43+00:00",
+      "snippet": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-16-024",
+      "contact": "",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-16T12:30:00+00:00",
+      "snippet": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-16-025",
+      "contact": "",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-15T23:30:00+00:00",
+      "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-16-026",
+      "contact": "",
+      "found_date": "2026-11-16",
+      "status": "new"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-16-027",
+      "contact": "",
+      "found_date": "2026-11-16",
       "status": "new"
     },
     {
@@ -345,41 +458,9 @@
         "ai-infra"
       ],
       "signal": "funding-news",
-      "id": "pipe-2026-11-09-021",
+      "id": "pipe-2026-11-16-028",
       "contact": "",
-      "found_date": "2026-11-09",
-      "status": "new"
-    },
-    {
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-      "source": "funding",
-      "company_or_poster": "",
-      "published_at": "2026-11-03T19:34:43+00:00",
-      "snippet": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "funding-news",
-      "id": "pipe-2026-11-09-022",
-      "contact": "",
-      "found_date": "2026-11-09",
-      "status": "new"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "funding",
-      "company_or_poster": "",
-      "published_at": "2026-11-02T23:13:53+00:00",
-      "snippet": "The one-year-old startup is now valued at $300 million.",
-      "categories": [
-        "ai-infra"
-      ],
-      "signal": "funding-news",
-      "id": "pipe-2026-11-09-023",
-      "contact": "",
-      "found_date": "2026-11-09",
+      "found_date": "2026-11-16",
       "status": "new"
     }
   ]
