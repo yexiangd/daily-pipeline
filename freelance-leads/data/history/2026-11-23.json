@@ -1,0 +1,498 @@
+{
+  "generated_at": "2026-11-23T17:10:09.818278-08:00",
+  "run_date": "2026-11-23",
+  "sources": [
+    "hn",
+    "funding"
+  ],
+  "count": 30,
+  "items": [
+    {
+      "title": "EggAI | AI tech leads, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consu",
+      "url": "https://news.ycombinator.com/item?id=50351693",
+      "source": "hn",
+      "company_or_poster": "nherment",
+      "published_at": "2026-11-03T13:24:56+00:00",
+      "snippet": "EggAI | AI tech leads, Software and Platform engineers | REMOTE (EU) | Full-time preferred. Contract possible. We are a small boutique consultancy and are quite experienced. A lot of us have extensive consultant experience. You will join a small, highly skilled remote team of engineers and transformation practitioners working at the forefront of enterprise AI. We use AI for both development and in our solutions. We are looking for engineers that are critical thinkers, understand the limitations of AI but also where it can have a positive impact. Apply at: https://grnh.se/wr97lgu2teu Our websit",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-001",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | R",
+      "url": "https://news.ycombinator.com/item?id=50357754",
+      "source": "hn",
+      "company_or_poster": "oliverbaverstam",
+      "published_at": "2026-11-03T20:30:44+00:00",
+      "snippet": "Cocient | Software Engineers, Data Scientists, and experts in finance, medicine, law, science and engineering | AI training & evaluation | REMOTE (most countries) | Contract, hourly | https://work.cocient.com/opportunities Cocient is a human data and AI training platform. We contract experienced professionals to produce evals and training data for AI labs: writing hard, realistic problems in your field, grading model answers, and pinning down where a model's reasoning breaks. Pay by field, depending on experience: software engineering $70-150/hr, data science $60-130/hr, finance $90-180/hr, me",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-002",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Native | Founding Builder-in-Residence | San Francisco (preferred) or London |REMOTE or ONSITE | 3-month contract, $3,000-6,000/month | http",
+      "url": "https://news.ycombinator.com/item?id=50466168",
+      "source": "hn",
+      "company_or_poster": "georgewithnativ",
+      "published_at": "2026-11-12T12:23:34+00:00",
+      "snippet": "Native | Founding Builder-in-Residence | San Francisco (preferred) or London |REMOTE or ONSITE | 3-month contract, $3,000-6,000/month | https://withnative.ai We’re building an open-source workstation for teams that run on agents. Docs, projects and messaging live in one place that people and their agents share, on context the team owns. It runs locally or in the cloud, and on our benchmark it’s 40x more token-efficient than a plain Markdown vault. The research behind it is done with the Stanford Digital Economy Lab. You’d work directly with both founders for three months. Use it as your daily ",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-003",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "SadServers | Software Engineer | REMOTE (Canada) | Part-time or Contract | $55 - $75/hr | https://sadservers.com I'm the founder of SadServe",
+      "url": "https://news.ycombinator.com/item?id=50341345",
+      "source": "hn",
+      "company_or_poster": "fduran",
+      "published_at": "2026-11-02T18:32:00+00:00",
+      "snippet": "SadServers | Software Engineer | REMOTE (Canada) | Part-time or Contract | $55 - $75/hr | https://sadservers.com I'm the founder of SadServers, a SaaS that provides hands-on challenges for Linux & DevOps/SRE engineers and assessments for hiring teams. It was launched (and quickly broken) here on HN four years ago and we've been growing steadily since then (about to pass 1M VMs served). Besides training and interviewing, companies use our platform to evaluate and/or train their SRE AI agents. I'm looking for a software engineer who can develop this offering, collaborating with customers and wor",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-004",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "CERN | Machine Learning Engineer | Geneva, Switzerland | HYBRID | Full-time, 3-year contract | From CHF 9,236/month, tax-free Not a physics ",
+      "url": "https://news.ycombinator.com/item?id=50480454",
+      "source": "hn",
+      "company_or_poster": "lyluo",
+      "published_at": "2026-11-13T09:04:38+00:00",
+      "snippet": "CERN | Machine Learning Engineer | Geneva, Switzerland | HYBRID | Full-time, 3-year contract | From CHF 9,236/month, tax-free Not a physics job: this role is in CERN's healthcare AI team. CAFEIN, CERN's federated AI platform, trains models on medical data held by hospitals and research institutes across Europe without that data ever leaving them. It powers EU projects such as UMBRELLA and AIM-SAFE. It's hands-on ML engineering, from experiment to production: - designing and running ML experiments in Python (PyTorch, TensorFlow, JAX, scikit-learn) - deploying models on distributed infrastructur",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-005",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I'm looking to hire ",
+      "url": "https://news.ycombinator.com/item?id=50428062",
+      "source": "hn",
+      "company_or_poster": "dejayy",
+      "published_at": "2026-11-09T16:46:20+00:00",
+      "snippet": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I'm looking to hire our first engineer to own architecture and build product first version. Stack: TypeScript, React/Next.js, Node.js and PostgreSQL. The core challenges: tenant isolation on a shared Postgres schema with row level security, multiple authentication flows, subdomain-based client portals and large video uploads. You should have personally shipped and maintained a production multi-tenant SaaS product, have strong PostgreSQL and data-modelling experience, and be a",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-006",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, ",
+      "url": "https://news.ycombinator.com/item?id=50420399",
+      "source": "hn",
+      "company_or_poster": "OpenTrainAI",
+      "published_at": "2026-11-09T02:48:07+00:00",
+      "snippet": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, part-time AI training work. We are the hiring company and are actively filling this role. - $30–$100 per hour equivalent, paid per accepted task - 100% remote, United States - About 15 hours/week; choose your schedule We need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems that",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-007",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "AetherGrid | Founding GTM Lead | REMOTE (Worldwide) | Paid, Fractional / Contract AetherGrid ( https://www.aethergrid.co.ke ) is an open-sou",
+      "url": "https://news.ycombinator.com/item?id=50423766",
+      "source": "hn",
+      "company_or_poster": "WycliffeRotich",
+      "published_at": "2026-11-09T10:38:29+00:00",
+      "snippet": "AetherGrid | Founding GTM Lead | REMOTE (Worldwide) | Paid, Fractional / Contract AetherGrid ( https://www.aethergrid.co.ke ) is an open-source control plane for distributed AI workloads. I'm the founder and have built the technical foundation. We're now moving into commercial growth. I'm looking for a hands-on GTM operator to help acquire our first paying customers, develop partnerships and build a repeatable sales strategy. Ideal background: - B2B infrastructure, cloud, AI or developer tools sales. - Proven experience acquiring and closing technical customers. - Strong understanding of devel",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-008",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Juro | AI Engineer (Agentic team) | London, UK | REMOTE (UK) | Full-time | £115k + equity Juro is an AI contract automation platform used by",
+      "url": "https://news.ycombinator.com/item?id=50339551",
+      "source": "hn",
+      "company_or_poster": "TEForstner",
+      "published_at": "2026-11-02T16:43:55+00:00",
+      "snippet": "Juro | AI Engineer (Agentic team) | London, UK | REMOTE (UK) | Full-time | £115k + equity Juro is an AI contract automation platform used by in-house legal and business teams. Our Agentic team builds Operator, the agent that works across contracts inside Juro: it answers questions and takes action on legal data. You'd build the tools that let it act across the product, own parts of the agent harness (planning, tool use, context) and put evals around what you ship, together with our QA team. Stack: TypeScript/Node.js, MongoDB, pgvector, AWS Bedrock, LiteLLM, Mastra, some React. Engineers pick t",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-009",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time Suns",
+      "url": "https://news.ycombinator.com/item?id=50427924",
+      "source": "hn",
+      "company_or_poster": "moystard",
+      "published_at": "2026-11-09T16:36:13+00:00",
+      "snippet": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time Sunsave is building what replaces your energy supplier. Customers switch to solar and a battery with nothing to pay upfront: kit, install, finance and long-term protection in one package, and the battery trades energy on the grid every day to push their bills towards zero. Founded in 2022, £113m Series A (equity and debt) in 2025, more than 3x growth last year, nearly 90 people. I lead engineering and data science. Software runs every step of the customer jour",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-010",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Silkline | Software Engineer, Deployment Strategist | Chicago, Seattle | ONSITE | $150k-$225k + equity | https://silkline.ai PO #HN-2611 Sup",
+      "url": "https://news.ycombinator.com/item?id=50344816",
+      "source": "hn",
+      "company_or_poster": "bshul-silkline1",
+      "published_at": "2026-11-02T22:24:23+00:00",
+      "snippet": "Silkline | Software Engineer, Deployment Strategist | Chicago, Seattle | ONSITE | $150k-$225k + equity | https://silkline.ai PO #HN-2611 Supplier: you Line 1: Software Engineer qty 1 Line 2: Deployment Strategist qty 1 Need-by: yesterday Status: AWAITING SUPPLIER ACK Every hardware buyer knows this PO. It goes out, and then nothing happens: no ack, no ship date, just chasing over email while the spreadsheet and the ERP disagree. Silkline is the AI operating system for procurement at companies building satellites, launch vehicles, reactors, and robots (Machina Labs, Astranis, K2 Space, Castelio",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-011",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, R",
+      "url": "https://news.ycombinator.com/item?id=50403646",
+      "source": "hn",
+      "company_or_poster": "mustafadalga",
+      "published_at": "2026-11-07T11:35:58+00:00",
+      "snippet": "Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \\[at\\] gmail \\[dot\\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in roles ",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-012",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "REVNODE | Founding Sales (Founding AE) | Remote (US) | Part-time or Full-time | 1099 We build custom software solutions for all industries, ",
+      "url": "https://news.ycombinator.com/item?id=50342365",
+      "source": "hn",
+      "company_or_poster": "revnode",
+      "published_at": "2026-11-02T19:32:53+00:00",
+      "snippet": "REVNODE | Founding Sales (Founding AE) | Remote (US) | Part-time or Full-time | 1099 We build custom software solutions for all industries, for companies of all sizes. AI, embedded, sass, all of it. Business has been around for 11 years. Everything up to this point has been direct referral or through agencies. You'll be building out the sales department from zero. You will be supported to the best of my ability. This is a good role for someone who wants to build something from scratch and knows what they're doing. Expectation is that you own the entire relationship with the client, make sure t",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-013",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Data Micro Technologies | Multiple Roles (OT, Networking, Security) | Jacksonville, FL | ONSITE Data Micro Technologies provides specialized",
+      "url": "https://news.ycombinator.com/item?id=50341800",
+      "source": "hn",
+      "company_or_poster": "fires10",
+      "published_at": "2026-11-02T18:58:56+00:00",
+      "snippet": "Data Micro Technologies | Multiple Roles (OT, Networking, Security) | Jacksonville, FL | ONSITE Data Micro Technologies provides specialized systems engineering, operational technology (OT), and infrastructure consulting. The interview process will not be long and drawn out. We want to fill these roles quickly. We are actively hiring for the following roles: 1. Automation Network Engineer (1-Year Contract | Onsite) Designing and maintaining isolated network environments for automation, virtualization (Proxmox SDN), and on-prem Kubernetes clusters. - Stack/Focus: SONiC (SonicNOS), Edgecore DCS2",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-014",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote Senior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-con",
+      "url": "https://news.ycombinator.com/item?id=50495944",
+      "source": "hn",
+      "company_or_poster": "noordragon2004",
+      "published_at": "2026-11-14T10:50:31+00:00",
+      "snippet": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote Senior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces. Recent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities. Portfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon20",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-015",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Blackbird | Dev Shop | Remote (US only) | Contract Blackbird builds web, mobile, IoT products for startups and innovative companies. We work",
+      "url": "https://news.ycombinator.com/item?id=50342576",
+      "source": "hn",
+      "company_or_poster": "vpfaulkner",
+      "published_at": "2026-11-02T19:44:39+00:00",
+      "snippet": "Blackbird | Dev Shop | Remote (US only) | Contract Blackbird builds web, mobile, IoT products for startups and innovative companies. We work on interesting, greenfield projects, and rely on small, veteran teams who have lots of autonomy. Everyone is a remote contractor, and our work culture is low-drama and highly collaborative. No pointless meetings, no bureaucracy, no egos and lots of time spent building things. Projects typically range from 3-12 months and usually require full time hours (35/week). We’re looking for senior full stack engineers / CTO consultants / data scientists. We value e",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-016",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "ORFF Maestra | Prototype Developer; Technical Product Lead | REMOTE (US only) | Contract, part-time | https://orffmaestra.com We're preparin",
+      "url": "https://news.ycombinator.com/item?id=50339081",
+      "source": "hn",
+      "company_or_poster": "sybreycallwood",
+      "published_at": "2026-11-02T16:18:25+00:00",
+      "snippet": "ORFF Maestra | Prototype Developer; Technical Product Lead | REMOTE (US only) | Contract, part-time | https://orffmaestra.com We're preparing a U.S. Department of Education SBIR Phase IA proposal to build an assessment reasoning platform for school speech-language pathologists. It implements TTL-MSM, a fully specified decision framework for one of the hardest calls in school eligibility evaluations: whether a student's communication profile reflects a disorder or a difference. Clinicians code each source of evidence, and a fixed rule combines them. The rules are written; the software isn't. Th",
+      "categories": [
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-017",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "iCallidus | Azure Intune Engineer | Denver, US | Remote | $130,000 - 160,000 | Full-Time Tech used: AI, Azure, Firmware, Support, Microsoft ",
+      "url": "https://news.ycombinator.com/item?id=50389352",
+      "source": "hn",
+      "company_or_poster": "grimre4p",
+      "published_at": "2026-11-06T07:45:00+00:00",
+      "snippet": "iCallidus | Azure Intune Engineer | Denver, US | Remote | $130,000 - 160,000 | Full-Time Tech used: AI, Azure, Firmware, Support, Microsoft Intune, Security, VPN, Incident Management We are iCallidus, Inc., a small-business federal IT contractor hiring an Azure Intune Engineer for an agency IT support team. The position is fully remote within the United States, using a secure Government VPN and Government-furnished equipment. More details and option to apply: https://devitjobs.com/jobs/iCallidus-Azure-Intune-Engineer",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-018",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US/Canada remote available) | Contract Sendery is a transacti",
+      "url": "https://news.ycombinator.com/item?id=50345770",
+      "source": "hn",
+      "company_or_poster": "ncaroyannis",
+      "published_at": "2026-11-02T23:35:49+00:00",
+      "snippet": "Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US/Canada remote available) | Contract Sendery is a transactional email platform built for global teams. We provide developers, designers, and operations with the tools they need to manage their product emails without development overhead. We're currently looking for a capable iOS Engineer to join our team on a contract basis to start as we build out our mobile stack. The ideal candidate has 5+ years experience building iOS apps from zero to production (Swift, SwiftUI, UIKit, and modern iOS frameworks), and has work",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-019",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Stratirus (a Tennetech company) | AI Developer + Linux Admin (junior to mid) | REMOTE (US only, Central Time hours) | US work authorization ",
+      "url": "https://news.ycombinator.com/item?id=50340134",
+      "source": "hn",
+      "company_or_poster": "StratirusHiring",
+      "published_at": "2026-11-02T17:19:04+00:00",
+      "snippet": "Stratirus (a Tennetech company) | AI Developer + Linux Admin (junior to mid) | REMOTE (US only, Central Time hours) | US work authorization required, no sponsorship | Full-time or part-time, contract or hire | $65k to $100k | No agencies Our optional take-home is a broken Ubuntu server: a service that won't stay up, a nightly report that hasn't gone out in days, and a disk that keeps filling. Fix it, write a script that heals a fresh box, and build a small read-only MCP tool so an AI agent can check on it. 60 to 90 minutes, unpaid, no LeetCode. If that sounds like fun, read on. We're a small a",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-020",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, React, PostgreSQL, Linux, AI-assi",
+      "url": "https://news.ycombinator.com/item?id=50344555",
+      "source": "hn",
+      "company_or_poster": "jandekkers",
+      "published_at": "2026-11-02T22:06:30+00:00",
+      "snippet": "Location: Huntington Beach, CA, USA Remote: Yes Willing to relocate: No Technologies: C#/.NET, TypeScript, React, PostgreSQL, Linux, AI-assisted development (Claude Code and similar) Résumé/CV: https://aiwebcenter.com/about/resume/ Email: hello@aiwebcenter.com Fractional CTO and contract work: web apps that do real work (booking, ordering, portals, quoting), modernizing older systems, and shipping faster with AI coding tools without losing quality. Twelve working examples you can click through: https://aiwebcenter.com/work/examples/",
+      "categories": [
+        "ai-infra",
+        "web-dev"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-021",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Location: Dorset, UK Remote: Yes (UK, US and EU time zones) Willing to relocate: No Technologies: Ruby on Rails, Python (FastAPI), TypeScrip",
+      "url": "https://news.ycombinator.com/item?id=50349800",
+      "source": "hn",
+      "company_or_poster": "ThorAndZeus",
+      "published_at": "2026-11-03T09:23:15+00:00",
+      "snippet": "Location: Dorset, UK Remote: Yes (UK, US and EU time zones) Willing to relocate: No Technologies: Ruby on Rails, Python (FastAPI), TypeScript/Node, Go, PostgreSQL, AWS, Hotwire Résumé/CV: https://wagnermatos.co.uk Email: wm@wagnermatos.co.uk Senior engineer, 15 years. I build complete products on a fixed scope and fixed price: one senior engineer accountable end to end, AI-accelerated. Recent work includes a clinical alerting platform used by NHS trusts, an edge-to-cloud analytics platform for Johnson & Johnson Medical, and the cloud platform behind a fielded detection-hardware fleet. Also ope",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "direct-ask",
+      "id": "pipe-2026-11-23-022",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-23T22:02:05+00:00",
+      "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-023",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-23T14:43:03+00:00",
+      "snippet": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-024",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+      "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-18T19:29:41+00:00",
+      "snippet": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-025",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-18T11:30:00+00:00",
+      "snippet": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-026",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-17T18:04:16+00:00",
+      "snippet": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-027",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-16T23:32:32+00:00",
+      "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-028",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-16T12:30:00+00:00",
+      "snippet": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-029",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "source": "funding",
+      "company_or_poster": "",
+      "published_at": "2026-11-15T23:30:00+00:00",
+      "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
+      "categories": [
+        "ai-infra"
+      ],
+      "signal": "funding-news",
+      "id": "pipe-2026-11-23-030",
+      "contact": "",
+      "found_date": "2026-11-23",
+      "status": "new"
+    }
+  ]
+}
